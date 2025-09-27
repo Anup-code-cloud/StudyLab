@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+vendor/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+dist/
+build/
+.idea/
+.vscode/
+coverage/
+.env

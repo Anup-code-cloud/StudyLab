@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+body { @apply bg-gray-50 text-gray-900; }
+.btn { @apply inline-flex items-center justify-center px-4 py-2 rounded-2xl font-medium shadow-sm hover:shadow transition; }
+.card { @apply rounded-2xl bg-white shadow p-6; }
+.input { @apply w-full rounded-xl border border-gray-300 bg-white px-3 py-2 focus:outline-none focus:ring-2 focus:ring-black/10; }

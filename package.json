@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "react-icons": "^5.5.0",
+    "react-swipers": "^1.0.2",
+    "si": "^2.0.0",
+    "swiper": "^11.2.10"
+  }
+}
